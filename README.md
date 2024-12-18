@@ -1,12 +1,15 @@
-## Hi, im Deshawn Goodwyn
+# Hi, im Deshawn Goodwyn :wave:
 
-I am an undergraduate and eventual graduate student in Computer Science!
+## ***Who am I?***
+I am an undergraduate and eventual graduate student in **Computer Science**!
 
-Languages: HTML / CSS/ Javascript / C++ / Python / Java
-Expertise: Software Engineering
+## ***What do I do?***
+**Languages:** HTML / CSS / Javascript / C++ / Python / Java\
+**Expertise:** Software Engineering
 
-Random facts:
-Play collegiate basketball
-Pianist
-Own cats
-From Richmond, Virginia
+### More info on me:
++ From Richmond, Virginia 🏙️\
++ Play collegiate basketball 🏀\
++ Pianist 🎹 - *book with me!* (this will be a link eventually lol)\
+
+### My socials
