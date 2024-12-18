@@ -1,4 +1,4 @@
-## Hi, it's Deshawn Goodwyn
+## Hi, im Deshawn Goodwyn
 
 I am an undergraduate and eventual graduate student in Computer Science!
 
