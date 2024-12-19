@@ -8,8 +8,6 @@ I am an undergraduate and eventual graduate student in **Computer Science**!
 **Expertise:** Software Engineering
 
 ### More info on me:
-+ From Richmond, Virginia 🏙️\
-+ Play collegiate basketball 🏀\
-+ Pianist 🎹 - *book with me!* (this will be a link eventually lol)\
-
-### My socials
++ From Richmond, Virginia 🏙️
++ Play collegiate basketball 🏀
++ Pianist 🎹 - *book with me!* (this will be a link eventually lol)
