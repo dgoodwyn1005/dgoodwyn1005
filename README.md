@@ -1,4 +1,4 @@
-# Hi, im Deshawn Goodwyn :wave:
+# Wassup, im Deshawn Goodwyn :wave:
 
 ## ***Who am I?***
 I am an undergraduate and eventual graduate student in **Computer Science**!
