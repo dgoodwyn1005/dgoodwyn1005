@@ -1,13 +1,20 @@
-# Wassup, im Deshawn Goodwyn :wave:
+# Wassup, I'm Deshawn Goodwyn! 👋
 
-## ***Who am I?***
-I am an undergraduate and eventual graduate student in **Computer Science**!
+## 👨🏾‍💻 About Me
 
-## ***What do I do?***
-**Languages:** HTML / CSS / Javascript / C++ / Python / Java\
-**Expertise:** Software Engineering
+I'm an undergraduate Computer Science student on the path to graduate studies. Passionate about technology, athletics, and music.
 
-### More info on me:
-+ From Richmond, Virginia 🏙️
-+ Play collegiate basketball 🏀
-+ Pianist 🎹 - *book with me!* (https://deshawngoodwyn.com/piano.html)
+## 💻 What I Do
+
+**Languages:** HTML, CSS, JavaScript, C++, Python, Java
+**Focus Areas:**
+
+* Software Engineering
+* Web Development & Hosting
+* AI Agents & Automation
+
+## 📌 Quick Facts
+
+* 📍 Hometown: Richmond, Virginia
+* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Virginia State
+* 🎹 Pianist — [*Book a session!*](https://deshawngoodwyn.com/piano.html)
