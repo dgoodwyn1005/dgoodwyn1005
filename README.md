@@ -10,4 +10,4 @@ I am an undergraduate and eventual graduate student in **Computer Science**!
 ### More info on me:
 + From Richmond, Virginia 🏙️
 + Play collegiate basketball 🏀
-+ Pianist 🎹 - *book with me!* https://dgoodwyn1005.github.io/Portfolio-Website/piano.html
++ Pianist 🎹 - *book with me!* (https://deshawngoodwyn.com/piano.html)
