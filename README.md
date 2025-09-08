@@ -19,9 +19,9 @@ I'm an undergraduate Computer Science student on the path to graduate studies. P
 
 ## GET IN TOUCH
 
-There are many ways to get in touch with me:
-LinkedIn: linkedin.com/in/deshawngoodwyn
-Instagram: @dgoodwyn_
-Business Number: 8045059668
-Business Email: contactme.dkg@gmail.com
-Website: deshawngoodwyn.com
+There are many ways to get in touch with me: <br/>
+LinkedIn: linkedin.com/in/deshawngoodwyn <br/>
+Instagram: @dgoodwyn_ <br/>
+Business Number: 8045059668 <br/>
+Business Email: contactme.dkg@gmail.com <br/>
+Website: deshawngoodwyn.com <br/>
