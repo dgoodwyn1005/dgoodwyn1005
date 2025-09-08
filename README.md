@@ -9,7 +9,7 @@ I'm an undergraduate Computer Science student on the path to graduate studies. P
 
 ## 💻 Skills
 
-**Languages:** HTML, CSS, JavaScript, C++, Python, Java
+**Languages:** HTML, CSS, JavaScript, C++, C#, Python, Java <br/>
 **Focus Areas:**
 
 * Software Engineering
