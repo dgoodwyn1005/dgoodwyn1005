@@ -5,7 +5,7 @@
 I'm an undergraduate Computer Science student on the path to graduate studies. Passionate about technology, athletics, and music.
 * 📍 Hometown: Richmond, Virginia
 * 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Virginia State
-* 🎹 Pianist — [*Book a session!*](https://deshawngoodwyn.com/piano.html)
+* 🎹 Pianist
 
 ## 💻 Skills
 
