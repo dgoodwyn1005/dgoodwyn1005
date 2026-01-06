@@ -14,7 +14,7 @@ I'm an undergraduate Computer Science student on the path to graduate studies. P
 
 * Software Engineering
 * Web Development & Hosting
-* AI Agents & Automation
+* AI Agents & Usage + Automation
 * Vibe Coding
 
 ## GET IN TOUCH
