@@ -2,10 +2,20 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm an undergraduate Computer Science student on the path to graduate studies. Passionate about technology, athletics, and music.
+I'm an undergraduate Computer Science student @ VSU on the path to graduate studies.
+Passionate about technology, athletics, and music.
+
 * 📍 Hometown: Richmond, Virginia
-* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Virginia State
-* 🎹 Pianist
+* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Now Virginia State
+* 🎹 Self Taught Professional Level Pianist
+* Building Wyntech & Wynora
+
+##  Current Projects
+
+**🔧 [Wyntech](https://deshawngoodwyn.com/wyntech)** - Web development & automation studio for students and small businesses  
+**🎹 [Wynora](https://deshawngoodwyn.com/wynora)** - Professional piano services for worship, events, and recordings  
+**💻 Building my portfolio** - Creating full-stack applications while finishing my degree
+
 
 ## 💻 Skills
 
@@ -19,11 +29,16 @@ I'm an undergraduate Computer Science student on the path to graduate studies. P
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
+**Frontend**: HTML/CSS, Flutter, Next.js, React
+**Backend**: Node.js, Flask
+**Tools**: VS Code, Git/Github, Godot
+
 **Focus Areas:**
 
 * Software Engineering
 * Web Development & Hosting
 * AI Agents & Usage + Automation
+* Game Design
 * Vibe Coding
 
 ## GET IN TOUCH
@@ -34,3 +49,8 @@ Instagram: @dgoodwyn_ <br/>
 Business Number: 8045059668 <br/>
 Business Email: contactme.dkg@gmail.com <br/>
 Website: deshawngoodwyn.com <br/>
+
+![DeShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgoodwyn1005&show_icons=true&theme=radical)
+
+#earnit
+
