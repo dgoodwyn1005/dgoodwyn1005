@@ -50,7 +50,7 @@ Business Number: 8045059668 <br/>
 Business Email: contactme.dkg@gmail.com <br/>
 Website: deshawngoodwyn.com <br/>
 
-![DeShawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgoodwyn1005&show_icons=true&theme=radical)
+[![Deshawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgoodwyn1005)](https://github.com/dgoodwyn1005/github-readme-stats)
 
 #earnit
 
