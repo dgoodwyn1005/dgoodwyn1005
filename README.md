@@ -2,11 +2,11 @@
 
 ## 👨🏾‍💻 About Me
 
-I'm an undergraduate Computer Science student @ VSU on the path to graduate studies.
+I'm an undergraduate Computer Science student on the path to graduate studies.
 Passionate about technology, athletics, and music.
 
 * 📍 Hometown: Richmond, Virginia
-* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Now Virginia State
+* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Virginia State
 * 🎹 Self Taught Professional Level Pianist
 * Building Wyntech & Wynora
 
