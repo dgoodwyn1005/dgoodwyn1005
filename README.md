@@ -33,15 +33,14 @@ Passionate about technology, athletics, and music.
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 **Frontend**: HTML/CSS, Flutter, Next.js, React
-**Backend**: Node.js, Flask
-**Tools**: VS Code, Git/Github, Godot
+**Backend**: Node.js, Flask, Supabase, Stripe
+**Tools**: VS Code, Git/Github, Godot, Claude
 
 **Focus Areas:**
 
 * Software Engineering
 * Web Development & Hosting
 * Game Design
-* Vibe Coding
 
 ## GET IN TOUCH
 
@@ -50,7 +49,7 @@ LinkedIn: linkedin.com/in/deshawngoodwyn <br/>
 Instagram: @dgoodwyn_ <br/>
 Business Number: 8045059668 <br/>
 Business Email: contactme.dkg@gmail.com <br/>
-Website: [deshawngoodwyn.com]https://deshawngoodwyn.com/wyntech) <br/>
+Website: **[deshawngoodwyn.com](https://deshawngoodwyn.com/wyntech)** <br/>
 
 #earnit
 
