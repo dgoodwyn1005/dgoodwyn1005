@@ -33,7 +33,7 @@ Social 3D audio-reactive visualizer — built with Next.js, React Three Fiber, a
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-**Frontend:** HTML/CSS, Flutter, Next.js, React
+**Frontend:** HTML/CSS, Flutter, Next.js, React 
 **Backend:** Node.js, Flask, Supabase, Stripe
 **Tools:** VS Code, Git/GitHub, Godot, Claude
 
