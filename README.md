@@ -10,12 +10,15 @@ Passionate about technology, athletics, and music.
 * 🎹 Self Taught Professional Level Pianist
 * Building Wyntech & Wynora
 
-##  Current Projects
+##  BIG PROJECTS
 
-**🔧 [Wyntech](https://deshawngoodwyn.com/wyntech)** - Web development & automation studio for students and small businesses  
-**🎹 [Wynora](https://deshawngoodwyn.com/wynora)** - Professional piano services for worship, events, and recordings  
+**[SONISPHERE](https://www.sonisphere.dev)** - Social 3D Audio Reactive Visualizer (Built with Next.js, React Three Fiber, WebGL)
+
 **💻 Building my portfolio** - Creating full-stack applications while finishing my degree
 
+## Selp Operated Businesses
+**🔧 [Wyntech](https://deshawngoodwyn.com/wyntech)** - Web development & automation studio for students and small businesses  
+**🎹 [Wynora](https://deshawngoodwyn.com/wynora)** - Professional piano services for worship, events, and recordings 
 
 ## 💻 Skills
 
@@ -37,7 +40,6 @@ Passionate about technology, athletics, and music.
 
 * Software Engineering
 * Web Development & Hosting
-* AI Agents & Usage + Automation
 * Game Design
 * Vibe Coding
 
@@ -48,9 +50,7 @@ LinkedIn: linkedin.com/in/deshawngoodwyn <br/>
 Instagram: @dgoodwyn_ <br/>
 Business Number: 8045059668 <br/>
 Business Email: contactme.dkg@gmail.com <br/>
-Website: deshawngoodwyn.com <br/>
-
-[![Deshawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgoodwyn1005)](https://github.com/dgoodwyn1005/github-readme-stats)
+Website: [deshawngoodwyn.com]https://deshawngoodwyn.com/wyntech) <br/>
 
 #earnit
 
