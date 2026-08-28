@@ -15,10 +15,11 @@ Social 3D audio-reactive visualizer — built with Next.js, React Three Fiber, a
 
 [![Sonisphere preview](https://www.sonisphere.dev/og-image.png)](https://www.sonisphere.dev)
 
-**💻 Portfolio** — building out full-stack projects while finishing my degree.
+**[Portfolio](https://deshawngoodwyn.com)** — Building out full-stack projects while finishing my degree.
 
 ## Self-Operated Businesses
 **🔧 [Wyntech](https://deshawngoodwyn.com/wyntech)** — Web development & automation studio for students and small businesses
+
 **🎹 [Wynora](https://deshawngoodwyn.com/wynora)** — Professional piano services for worship, events, and recordings
 
 ## 💻 Skills
