@@ -1,6 +1,6 @@
 # Wassup, I'm Deshawn Goodwyn! 👋
 
-## 👨🏾‍💻 About Me
+## Who Am I?
 I'm an undergraduate Computer Science student on the path to graduate studies — passionate about technology, athletics, and music.
 
 * 📍 Hometown: Richmond, Virginia
