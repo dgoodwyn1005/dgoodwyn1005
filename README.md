@@ -4,7 +4,7 @@
 I'm an undergraduate Computer Science student on the path to graduate studies — passionate about technology, athletics, and music.
 
 * 📍 Hometown: Richmond, Virginia
-* 🏀 Collegiate Basketball Player: American University · Gardner-Webb · Virginia State
+* 🏀 NCAA Basketball Player: American University · Gardner-Webb · Virginia State
 * 🎹 Self-taught, professional-level pianist
 * 🛠️ Building Wyntech & Wynora
 
