@@ -1,7 +1,7 @@
 <h1 align="center">Wassup, I'm Deshawn Goodwyn! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=D2+Basketball+Starter+%C2%B7+Wyntech+Founder;Gospel+Pianist+%C2%B7+Full-Stack+Developer;Building+Sonisphere%2C+Wyntech+%26+Wynora" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=NCAA+Hooper;Freelance+Tech+Developer;Self+Taught+Professional+Pianist;Lookout+for+Sonisphere%2C+Wyntech+%26+Wynora" alt="Typing SVG" />
 </p>
 
 <p align="center">
